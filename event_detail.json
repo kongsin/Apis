@@ -1,10 +1,13 @@
 {
-  "title": "Event title",
-  "start": "1994-11-05T13:15:30Z",
-  "end": "1994-11-05T13:15:30Z",
-  "registrationBegin": "1994-11-05T13:15:30Z",
-  "registrationEnd": "1994-11-05T13:15:30Z",
-  "registerStatus": 0,
-  "eventGroup": "Group",
-  "couseCategory": "Categories"
+"title": "Event title",
+"imageUrl": "https://www.ocsc.com/new/xxx.jpg",
+"webLink": "https://www.ocsc.com/new/xxx",
+"createDate": "1994-11-05T13:15:30Z",
+"start": "1994-11-05T13:15:30Z",
+"end": "1994-11-05T13:15:30Z",
+"registrationBegin": "1994-11-05T13:15:30Z",
+"registrationEnd": "1994-11-05T13:15:30Z",
+"registerStatus": 0,
+"eventGroup": "Group",
+"couseCategory": "Categories"
 }
