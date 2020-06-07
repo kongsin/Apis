@@ -1,0 +1,9 @@
+{
+  "start": "1994-11-05T13:15:30Z",
+  "end": "1994-11-05T13:15:30Z",
+  "registrationBegin": "1994-11-05T13:15:30Z",
+  "registrationEnd": "1994-11-05T13:15:30Z",
+  "registerStatus": 0, //0 Open, 1 Closed
+  "eventGroup": "Group",
+  "couseCategory": "Categories"
+}
