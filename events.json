@@ -1,0 +1,31 @@
+{
+  "events" : [
+    {
+      "type": 1
+      "title": "String",
+      "createDate": "1994-11-05T13:15:30Z",
+      "stat": {
+        "read": 100,
+        "share": 65 
+      }
+    },
+    {
+      "type": 0
+      "title": "String",
+      "createDate": "1994-11-05T13:15:30Z",
+      "stat": {
+        "read": 110,
+        "share": 65 
+      }
+    },
+    {
+      "type": 1
+      "title": "String",
+      "createDate": "1994-11-05T13:15:30Z",
+      "stat": {
+        "read": 10,
+        "share": 2 
+      }
+    }
+  ]
+}
