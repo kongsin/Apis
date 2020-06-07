@@ -1,19 +1,22 @@
 {
   "items" : [
     {
-      "type": 1,
+      "id": 0,
       "title": "String",
-      "createDate": "1994-11-05T13:15:30Z"
+      "createDate": "1994-11-05T13:15:30Z",
+      "coverImageUrl": "https://www.somepath.com/image.jpg"
     },
     {
-      "type": 0,
+      "id": 1,
       "title": "String",
-      "createDate": "1994-11-05T13:15:30Z"
+      "createDate": "1994-11-05T13:15:30Z",
+      "coverImageUrl": "https://www.somepath.com/image.jpg"
     },
     {
-      "type": 1,
+      "id": 2,
       "title": "String",
-      "createDate": "1994-11-05T13:15:30Z"
+      "createDate": "1994-11-05T13:15:30Z",
+      "coverImageUrl": "https://www.somepath.com/image.jpg"
     }
   ]
 }
