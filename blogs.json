@@ -2,15 +2,15 @@
   "items":[
     {
       "title": "Knowage title",
-      "pdfLink": "https://www.ocsc.com/new/xxx.pdf"
+      "webLink": "https://www.ocsc.com/new/xxx.pdf"
     },
     {
       "title": "Knowage title",
-      "pdfLink": "https://www.ocsc.com/new/xxx.pdf"
+      "webLink": "https://www.ocsc.com/new/xxx.pdf"
     },
     {
       "title": "Knowage title",
-      "pdfLink": "https://www.ocsc.com/new/xxx.pdf"
+      "webLink": "https://www.ocsc.com/new/xxx.pdf"
     }
   ]
 }
